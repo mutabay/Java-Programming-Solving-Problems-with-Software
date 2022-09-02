@@ -5,7 +5,8 @@
 ### !Important Note!
 <hr>
 Some code should be run in a custom Bluej Development Environment made by Duke's University especially for this course. You can get the IDE from the University website
-[here](https://www.dukelearntoprogram.com//downloads/bluej.php?course=2).
+
+ [here](https://www.dukelearntoprogram.com//downloads/bluej.php?course=2)
 <br>
 
 Regarding This Course
